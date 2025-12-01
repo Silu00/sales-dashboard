@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+pyyaml
+pyarrow
+fastparquet
+numpy
